@@ -1,0 +1,98 @@
+huevo frito:
+
+-toma un huevo
+-toma aceite
+-toma la sal y ponlo sobre la mesa junto al huevo y aceite
+-da el gas
+-prende el fogon
+-saca la sarten y colocalo sobre el fogon prendido
+-quiebra el huevo
+-vierte el contenido del huevo dentro de la sarten
+-espera que se cocine bien
+-echa sal en medio del proceso de freido
+-apaga el fogon cuando ya este listo
+
+
+
+lavarte los dientes
+-dirigete al baño
+-toma un vaso y llenalo con agua
+-toma tu cepillo de dientes
+-toma la pasta dental
+-abre la tapa la pasta dental
+-vierte un poco sobre el cepillo de dientes
+-dirige el cepillo dentro de tu boca
+-cepilla tus dientes por atras y delante
+-cepilla tu lengua con el reverso del cepillo
+-escupe la espuma creada por la pasta dental dentro del lavamanos
+-toma el agua del vaso
+-juega con el agua dentro de tu boca y luego botalo en el lavamanos
+-moja tu cepillo para botar la espuma y residuos del cepillo
+
+
+
+prepararte para ir a un cumpleaños
+-dirigete al baño
+-lleva toalla
+-abre la llave de la ducha
+-desvistete
+-entra a la ducha
+-mojate todo el cuerpo
+-toma el jabon
+-echate jabon sobre el cuerpo
+-toma el shampoo y abrelo
+-echate shampoo sobre el cabello
+-enjuagate todo el cuerpo incluyendo el cabello
+-cierra la llave de la ducha
+-sale y toma la toalla
+-secate el cuerpo con la toalla
+-ve a tu pieza
+-saca un pantalon de tu closet
+-saca una polera de tu closet
+-saca ropa interior de tu closet
+-saca calcetines de tu closet
+-vistete
+-echate perfume
+-peinate
+
+
+promedio de notas:
+
+entrada:
+ -Nota1, Nota 2, Nota3
+ -Promedio
+
+proceso:
+ -Definir Nota1=5
+ -Definir Nota2=5
+ -Definir Nota3=7
+ -Promedio = (Nota1+Nota2+Nota3)/3
+ -Mostrar Promedio
+final:
+
+
+
+
+tabla de multiplicar
+
+inicio
+ -Numero dado por teclado (X)
+ -Numeros del 0 al 12
+ -resultado de multiplicacion(Y)
+
+proceso:
+ -(Y) = (X*0)
+ -(Y) = (X*1)
+ -(Y) = (X*2)
+ -(Y) = (X*3)
+ -(Y) = (X*4)
+ -(Y) = (X*5)
+ -(Y) = (X*6)
+ -(Y) = (X*7)
+ -(Y) = (X*8)
+ -(Y) = (X*9)
+ -(Y) = (X*10)
+ -(Y) = (X*11)
+ -(Y) = (X*12)
+ -Mostrar resultado
+final:

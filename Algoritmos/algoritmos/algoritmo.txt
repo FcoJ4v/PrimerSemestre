@@ -1,0 +1,103 @@
+Algoritmos cualitativos
+
+	 cocinar un huevo
+tomar un huevo
+tomar el aceite
+sacar la sal de mueble
+dejar los ingredientes en la mesa
+sacar el sarten del mueble
+dar el gas
+encender el fogon de la encimera
+dejarr el sarten sobre el fogon encendido sobre la encimera
+tomar el aceite y abrirlo
+vertir un poco de aceite sobre el sarten
+tomar el huevo y quebrarlo
+poner el contenido del huevo en el sarten
+tomar una pisca de sal y agregarla al sarten con el huevo
+esperar a que se cocine bien
+apagar el fuego de la encimera
+cortar el gas
+
+	lavar los dientes
+abrir el mueble del baño
+tomar el cepillo de dientes
+tomar la pasta de dientes
+abrir la pasta de dientes
+agregar un poco de pasta de dientes al cepillo
+llevar el cepillo hacia la boca 
+cepillar los dientes suavemente hacia arriba y abajo
+cepillar la lengua desde atras hacia delante
+escupir la pasta de dientes
+limpiar el cepillo de dientes
+guardar el cepillo de dientes en el mueble
+guardar la pasta de dientes
+cerrar la puert del mueble
+
+	prepararte para un cumpleaños
+
+ir al closet
+elegir ropa
+tomar polera
+tomar pantalones
+tomar ropa interior
+tomar calcetines
+dejarlas encima de la cama
+ir al baño
+dar la llave de la ducha
+entrar a la ducha
+iniciar el proceso de lavado
+cerrar llave de la ducha
+agarrar la toalla
+secar el cuerpo 
+salir de la ducha
+ir a la pieza
+vestirse
+poner perfume
+peinarse
+agarrar el regalo 
+ir al cumpleaños
+	
+
+
+Algoritmos cuantitativos
+
+	Generar una tabla de multiplicar
+
+inicio
+declaro variables num1, num2, res
+
+proceso
+mostrar(ingresa numero para multiplicar)
+guardar el numero en la variable num1
+num2 rango entre 0 y 12, aumente +1 cada vez que obtenemos un resultado de multiplicacion
+num1 * num2 = res
+mostrar res
+
+fin
+
+	Promedio de notas
+inicio
+
+declaro variables como decimal num1 = 5,3, num2 = 6,2, num3 = 4,5 y promedio
+promedio = (num1 + num2 + num3)/3
+mostrar (el promedio es: ) +promedio
+fin
+
+	calcular iva
+
+inicio
+
+declaro variables sueldo, iva = 19 y total
+mostrar (ingresar sueldo bruto: )
+leer sueldo
+total = (sueldo * 19)/100
+mostrar (el impuesto a pagar es de: ) +total
+fin 
+ 
+
+
+
+
+
+
+
